@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Suhas Kembhavi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Science+Student;Visual+Storyteller+(Photo+%26+Video);Motorcycle+Enthusiast" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Science+Student;Travel+Enthusiast" alt="Typing SVG" />
     </a>
 </h3>
 
@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I am a **Computer Science Student** exploring the world of algorithms and web development.
-- 💻 Currently focusing on **MERN Stack (Node.js, Express, MongoDB)** and **Network Engineering**.
+- 💻 Currently focusing on **MERN Stack (Node.js, Express, MongoDB)** and **DSA**.
 - 🎨 When I'm not coding, I am **learning Adobe Premiere** and creating visual content.
 - 🏍️ I love **motorcycles** and exploring new places on two wheels.
 - 🔭 I’m currently working on **Improving my GitHub commits & Building Full Stack Apps**.
