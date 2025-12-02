@@ -60,16 +60,6 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/Suhassk205?theme=tokyonight&font=Fira%20Code&ext=heatmap" height="180" alt="LeetCode Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Suhassk205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" height="180" />
-    </td>
-  </tr>
-</table>
 
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhassk205&bg_color=0D1117&color=5bcdec&line=5bcdec&point=FFFFFF&area=true&hide_border=true" width="100%" />
