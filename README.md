@@ -29,14 +29,21 @@
 
 ---
 
-### 📊 GitHub Activity
+### ☕ Currently Brewing
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhassk205&layout=donut&theme=transparent&hide_border=true&title_color=3F8CFF&text_color=777777" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suhassk205&theme=transparent&utcOffset=8" width="300" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhassk205&bg_color=transparent&color=3F8CFF&line=3F8CFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
+```bash
+❯ whoami
+Suhas Kembhavi
+
+❯ cat current_mission.txt
+"Building high-performance backend systems and diving deep into distributed architectures."
+
+❯ ./check_status.sh
+[✓] Mastering Next.js & TypeScript
+[✓] Engineering AuraType (Trie + Consistent Hashing + WAL)
+[ ] Preparing portfolio for the Apple Developer Academy
+[ ] Exploring real-world ML & AI integrations
+```
 
 ---
 
