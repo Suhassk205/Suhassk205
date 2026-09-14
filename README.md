@@ -29,21 +29,12 @@
 
 ---
 
-### ☕ Currently Brewing
+### 🏍️ Beyond the Code
 
-```bash
-❯ whoami
-Suhas Kembhavi
-
-❯ cat current_mission.txt
-"Building high-performance backend systems and diving deep into distributed architectures."
-
-❯ ./check_status.sh
-[✓] Mastering Next.js & TypeScript
-[✓] Engineering AuraType (Trie + Consistent Hashing + WAL)
-[ ] Preparing portfolio for the Apple Developer Academy
-[ ] Exploring real-world ML & AI integrations
-```
+<div align="center">
+  <img src="./assets/adventure.jpg" width="100%" alt="Travel and Adventure" style="border-radius: 10px;" />
+  <p align="center"><i>"Exploring the world on two wheels and searching for the next adventure."</i></p>
+</div>
 
 ---
 
