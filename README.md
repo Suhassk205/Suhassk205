@@ -24,7 +24,7 @@
         <li>🏍️ <strong>Motorcycle Enthusiast:</strong> Exploring the world on two wheels.</li>
         <li>🔭 Working on: <strong>Improving GitHub habits & Full Stack Apps</strong>.</li>
         <li>📫 Contact: <strong>suhaskembhavi@gmail.com</strong></li>
-        <li>🌐 Portfolio: <a href="https://suhaskembhavi.me"><strong>suhaskembhavi.me</strong></a></li>
+        <li>🌐 Portfolio: <a href="https://suhas.site"><strong>suhaskembhavi.me</strong></a></li>
       </ul>
     </td>
     <td width="40%">
